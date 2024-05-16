@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AWS and React**
 
-- 👯 I’m looking to collaborate on **Cloud Computing progects**
+- 👯 I’m looking to collaborate on **Cloud Computing projects**
 
 - 🤝 I’m looking for help with **JavaScript, React, C#, .Net and SQL server**
 
