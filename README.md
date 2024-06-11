@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Aprimorate my Skills**
 
-- 🌱 I’m currently learning **AWS and React**
+- 🌱 I’m currently learning **AWS and C#**
 
 - 👯 I’m looking to collaborate on **Cloud Computing projects**
 
